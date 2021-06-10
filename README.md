@@ -2,7 +2,7 @@
 ConsoleGeometricObject is a console based application created to practice inheritance. This project has four classes. GeometricObject.java, Circle.java, 
 Rectangle.java and lastly PrintShape.java.
 
-##Class-Description
+## ClassDescription
 GeometricObject.java is the superclass in this project that provides the basic information of a created shape. This class has colour, filled and date attributes that can 
 be accessed and changed through the getters and setters provided, as well as a toString method that could be called to print out the colour and fill of the shape.
 
@@ -15,7 +15,7 @@ rectangle and can change colour or filling through the super constructor.
 PrintShape.java is the class that has the main method in this project. Users would be able to create a shape from this class and have the output displayed to them 
 from a console.
 
-##Shape Creation Demonstration
+## Shape Creation Demonstration
 
 Circle<br>
 ![Circle creation](https://github.com/Tripl3R/console-geometric-object/blob/master/circle.PNG?raw=true)
