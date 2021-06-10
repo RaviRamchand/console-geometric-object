@@ -3,7 +3,7 @@ ConsoleGeometricObject is a console based application created to practice inheri
 Rectangle.java and lastly PrintShape.java. This project was taken from a UML diagram from "Introduction to Java Programming and Data Structures eleventh edition" by 
 Y. Daniel Liang. The UML diagram is located at the end of this document. 
 
-## ClassDescription
+## Class Description
 GeometricObject.java is the superclass in this project that provides the basic information of a created shape. This class has colour, filled and date attributes that can 
 be accessed and changed through the getters and setters provided, as well as a toString method that could be called to print out the colour and fill of the shape.
 
